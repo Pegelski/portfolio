@@ -7,11 +7,11 @@ vCard is a fully responsive personal portfolio website, responsive for all devic
 
 I'm always open to questions or new projects! Here’s how you can reach me:
 
-Website: pegelskicreativehub.ca
+Website: https://pegelskicreativehub.ca
  
 Email: pegelskicreative@gmail.com
  
-LinkedIn: linkedin.com/in/kieranpegelski](https://www.linkedin.com/in/kieran-pegel-448030193)
+LinkedIn: https://www.linkedin.com/in/kieran-pegel-448030193
 
 
 
